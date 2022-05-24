@@ -12,3 +12,5 @@ java -jar target/*.jar
 You can then access petclinic here: <http://localhost:8080/>
 
 ![pc1.jpg](pc1.jpg)
+
+![pc2.jpg](pc2.jpg)
